@@ -1,4 +1,5 @@
 # AlgoMaster Design & Implementation Report
+[Report](https://github.com/NightFall28/algo-master/blob/main/Fall_2024_Senior_Design_Team5%20(3)%20(1).pdf)
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
